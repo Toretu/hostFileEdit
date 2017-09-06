@@ -1,0 +1,9 @@
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\bin\Debug\hostfilEdit.exe.config
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\obj\Debug\hostfilEdit.csprojResolveAssemblyReference.cache
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\obj\Debug\hostfilEdit.Form1.resources
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\obj\Debug\hostfilEdit.Properties.Resources.resources
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\obj\Debug\hostfilEdit.csproj.GenerateResource.Cache
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\bin\Debug\hostfilEdit.exe
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\bin\Debug\hostfilEdit.pdb
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\obj\Debug\hostfilEdit.exe
+C:\temp\Visual Studio 2013\Projects\hostfilEdit\hostfilEdit\obj\Debug\hostfilEdit.pdb
